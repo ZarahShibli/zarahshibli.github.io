@@ -3,7 +3,6 @@
 layout: post
 title: مقدمة عن معالجة اللغة الطبيعية
 ---
-<div style="direction: rtl; text-align: right"  markdown="1">
 
 ## معالجة اللغة الطبيعية
 
